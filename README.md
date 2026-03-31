@@ -2,7 +2,7 @@
 
 This project template is a demonstration for the RepCo workshop.
 
-We will create a reproducible code
+We will create a reproducible code and we will exchange it with the other participants
 
 ## Usage
 
