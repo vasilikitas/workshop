@@ -2,6 +2,8 @@
 
 This project template is a demonstration for the RepCo workshop.
 
+We will create a reproducible code
+
 ## Usage
 
 Click "Use this template" at the top of this page to create a new repository with the same folder structure.
